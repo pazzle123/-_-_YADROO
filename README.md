@@ -55,7 +55,7 @@ git clone https://github.com/pazzle123/-_-_YADROO.git
 ```bash
 cd \-_-_YADROO
 ```
-
+**Выполнить команду сборки:**
 ```bash
 make
 ```

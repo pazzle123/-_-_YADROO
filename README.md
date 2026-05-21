@@ -45,28 +45,28 @@
 - Make (опционально)
 ## Установка и запуск
 
-### 1. Клонирование репозитория
+## 1. Клонирование репозитория
 
 ```bash
 git clone https://github.com/pazzle123/-_-_YADROO.git
 ```
-2. Сборка проекта через Make
+## 2. Сборка проекта через Make
 ```bash
 make
 ```
-4. Запуск программы
+## 3. Запуск программы
 
-# Windows (PowerShell)
+### Windows (PowerShell)
 ```bash
 .\csvreader.exe
 ```
 
-# Windows (cmd)
+### Windows (cmd)
 ```bash
 csvreader.exe
 ```
 
-# Linux/Mac
+### Linux/Mac
 ```bash
 ./csvreader
 ```

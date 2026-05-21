@@ -43,8 +43,22 @@
 
 - Компилятор GCC или MinGW
 - Make (опционально)
+## Установка и запуск
 
-### Компиляция через Make
+### 1. Клонирование репозитория
 
 ```bash
+git clone https://github.com/
+2. Сборка проекта через Make
+bash
 make
+3. Запуск программы
+bash
+# Windows (PowerShell)
+.\csvreader.exe
+
+# Windows (cmd)
+csvreader.exe
+
+# Linux/Mac
+./csvreader

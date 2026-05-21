@@ -48,17 +48,25 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/pazzle123/-_-_YADROO.git
+```
 2. Сборка проекта через Make
-bash
+```bash
 make
-3. Запуск программы
-bash
+```
+4. Запуск программы
+
 # Windows (PowerShell)
+```bash
 .\csvreader.exe
+```
 
 # Windows (cmd)
+```bash
 csvreader.exe
+```
 
 # Linux/Mac
+```bash
 ./csvreader
+```

@@ -51,7 +51,7 @@
 git clone https://github.com/pazzle123/-_-_YADROO.git
 ```
 ## 2. Сборка проекта через Make
-**Предварительно открой папку проекта, где лежит Makefile:**
+**Предварительно открыть папку проекта, где лежит Makefile:**
 ```bash
 cd \-_-_YADROO
 ```
